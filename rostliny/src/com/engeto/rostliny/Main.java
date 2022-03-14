@@ -36,11 +36,6 @@ public class Main {
             e.printStackTrace();
         }
 
-        // vyzkoušet export do souboru ještě jednou // srovnat s řešením, zda je tam něco navíc...
-        // vyzkoušet upload do GITu (dokoukat yablko - dle toho)
-        // shlédnout video kolekce
-        // projekt
-        // dú testing
 
 
 
